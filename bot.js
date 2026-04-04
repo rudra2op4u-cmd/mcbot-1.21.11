@@ -9,7 +9,7 @@ http.createServer((req, res) => {
 
 // 2. BOT CONFIGURATION
 const botArgs = {
-  host: 'cromiumpNEW.play.hosting', // Change this to your 1.21.11 server
+  host: 'corodium.play.hosting', // Change this to your 1.21.11 server
   username: 'Rudra_12111', 
   version: '1.21.11',      // New version support
   auth: 'offline',
