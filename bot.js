@@ -13,7 +13,7 @@ http.createServer((req, res) => {
 
 // --- 2. BOT CONFIGURATION ---
 const botArgs = {
-  host: 'cromium.play.hosting', // Update if your IP changes
+  host: 'corodium.play.hosting', // Update if your IP changes
   username: 'Bot1',
   version: '1.21.11',           // Works for 1.21.11 as well
   auth: 'offline',
